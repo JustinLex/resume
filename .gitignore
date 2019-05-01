@@ -1,0 +1,6 @@
+# Exclude all build files and include only whitelisted files
+*
+!README.md
+!.gitignore
+
+!resume.tex
